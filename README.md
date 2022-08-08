@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pcheruiyot
 - 👀 I’m interested in data analysis especially on energy and climate change
-- 🌱 I’m currently learning R, Python, SQL and Julia
+- 🌱 I’m currently learning Excel, R, Python, SQL and Tableau
 - 💞️ I’m looking to collaborate on text processing algorithms, automation and data visualization
 - 📫 How to reach: Cheruiyotkimp@gmail.com
 
